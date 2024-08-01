@@ -2,5 +2,5 @@
 - 👀 I’m interested in solving business problems using ML.
 - 🌱 I’m currently learning LLM, ML.
 - 💞️ I’m looking to collaborate on LLM, NLP, ML.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a cute cat named Garfield.
 
